@@ -4,4 +4,8 @@ public class MainApl {
         System.out.println("hi");
         System.out.println("1111");
     }
+
+    public static void pri(String[] args) {
+
+    }
 }
