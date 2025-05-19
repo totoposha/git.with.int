@@ -6,6 +6,6 @@ public class MainApl {
     }
 
     public static void pri(String[] args) {
-
+        System.out.println("gg");
     }
 }
