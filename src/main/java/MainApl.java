@@ -7,7 +7,7 @@ public class MainApl {
     }
 
     public static void something() {
-        System.out.println("gg");
+        System.out.println("ww");
         System.out.println("---");
     }
 }
