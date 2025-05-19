@@ -5,7 +5,7 @@ public class MainApl {
         System.out.println("1111");
     }
 
-    public static void pri(String[] args) {
+    public static void pri() {
         System.out.println("gg");
     }
 }
